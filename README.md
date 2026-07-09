@@ -176,13 +176,11 @@ The dashboard was developed using:
 
 The dashboard includes key Earned Value Management metrics, including:
 
-- Planned Value (PV)
 - Earned Value (EV)
 - Actual Cost (AC)
 - Cost Performance Index (CPI)
 - Schedule Performance Index (SPI)
 - Estimate at Completion (EAC)
-- Cost Variance (CV)
 
 > **Note:** Since the sample dataset does not include activity-level physical progress, Earned Value (EV) was estimated using project cost progress for demonstration purposes. In a live project environment, EV would typically be calculated from schedule or physical progress data provided by the planning team.
 
